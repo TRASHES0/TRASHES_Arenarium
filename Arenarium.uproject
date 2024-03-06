@@ -45,6 +45,10 @@
 			"Name": "MACS",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/97bf6ab1e948431ea72ed687bed82e18"
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
