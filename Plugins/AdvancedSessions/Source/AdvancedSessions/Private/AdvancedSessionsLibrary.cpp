@@ -261,9 +261,8 @@ FSessionPropertyKeyPair UAdvancedSessionsLibrary::MakeLiteralSessionPropertyBool
 FSessionPropertyKeyPair UAdvancedSessionsLibrary::MakeLiteralSessionPropertyString(FName Key, FString Value)
 {
 	FSessionPropertyKeyPair Prop;
-	const TCHAR* Value_tchar = *Value;
 	Prop.Key = Key;
-	Prop.Data.SetValue(Value_tchar);
+	Prop.Data.SetValue(Value);
 	return Prop;
 }
 
