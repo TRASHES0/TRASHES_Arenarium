@@ -45,11 +45,6 @@
 			]
 		},
 		{
-			"Name": "TargetSystem",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6bd21ce58d6e4cb295f71bd370233f53"
-		},
-		{
 			"Name": "MACS",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/97bf6ab1e948431ea72ed687bed82e18"
